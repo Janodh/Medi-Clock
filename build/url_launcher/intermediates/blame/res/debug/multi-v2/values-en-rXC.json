@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\janod\\Downloads\\huth\\Medi-Clock-master\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "C:\\Users\\janod\\Downloads\\Medi-Clock-master new\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\janod\\.gradle\\caches\\transforms-2\\files-2.1\\44b1706abe044cd42dcac5be863451ed\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\janod\\Downloads\\huth\\Medi-Clock-master\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "C:\\Users\\janod\\Downloads\\Medi-Clock-master new\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\janod\\.gradle\\caches\\transforms-2\\files-2.1\\44b1706abe044cd42dcac5be863451ed\\core-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\janod\\Downloads\\huth\\Medi-Clock-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "C:\\Users\\janod\\Downloads\\Medi-Clock-master new\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\janod\\.gradle\\caches\\transforms-2\\files-2.1\\c31c7137d1101a1d13caa918ca374edc\\jetified-play-services-basement-17.1.0\\res\\values-tl\\values.xml",
